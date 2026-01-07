@@ -18,9 +18,9 @@
 - **Plotly** — Biblioteca de visualização interativa, dashboards modernos, graficos linha, barras, pizza, mapas.
 - **Folium** — Biblioteca para mapas interativos, visualização dados geográficos, mapas com marcadores, clusters e camadas.
 - **Streamlit-folium** — Interação entre Folium e Streamlit, exibir mapas Folium dentro de apps Streamlit, capturar interações dop usuário (cliques no mapa).
-- **NumPy** — Bibliocate base para computação numérica em python, operações matemáticas de alta performance.
-- **Matplotlib** — Bibliocate de visualização de dados, gráficos estáticos, usado para análises exploratórias (EDA).
-- **Seaborn** — Bibliocate de visualização construida sobre o Matplotlib.
+- **NumPy** — Biblioteca base para computação numérica em python, operações matemáticas de alta performance.
+- **Matplotlib** — Biblioteca de visualização de dados, gráficos estáticos, usado para análises exploratórias (EDA).
+- **Seaborn** — Biblioteca de visualização construida sobre o Matplotlib.
 - **Scikit-learn** — Principal bibliocate de Machine Learning tradicional em python.
 
 
@@ -38,8 +38,8 @@ FIAP_TECH_CHALLENGE_FASE3/
 │   └── presentation.mp4          # Apresentação do projeto desenvolvido com a exploração dos dados
 │   
 ├── flights_dashboard.py          # Painel de voos
-├── flights_supervised.ipynb      # Flights Delay Prediction - Exploração de Dados (EDA) - Modelagem Supervisionada
-├── flights_unsupervised.ipynb    # Flights Discover Hidden Patterns - Exploração de Dados (EDA) - Modelagem Não Supervisionada
+├── flights_supervised.ipynb      # Flights Delay Prediction - Exploração de Dados (EDA) - Modelagem Supervisionado
+├── flights_unsupervised.ipynb    # Flights Discover Hidden Patterns - Exploração de Dados (EDA) - Modelagem Não Supervisionado
 │   
 ├── requirements.txt              # Dependências das bibliotecas utilizada
 └── README.md
